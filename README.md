@@ -1,5 +1,4 @@
 # eks-api-gitops-demo
-# eks-api-gitops-demo
 
 Demo repository for Kubernetes GitOps deployment using **Argo CD**.
 
