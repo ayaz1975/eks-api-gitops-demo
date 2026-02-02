@@ -8,6 +8,7 @@ Demo repository for Kubernetes GitOps deployment using **Argo CD**.
 
 ## Structure
 
+```text
 k8s/
   dev/
     deployment.yaml
