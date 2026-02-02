@@ -7,15 +7,16 @@ Demo repository for Kubernetes GitOps deployment using **Argo CD**.
 - `k8s/prod` → Argo CD **manual sync** (production-style)
 
 ## Structure
+
 k8s/
-dev/
-deployment.yaml
-service.yaml
-ingress.yaml
-prod/
-deployment.yaml
-service.yaml
-ingress.yaml
+  dev/
+    deployment.yaml
+    service.yaml
+    ingress.yaml
+  prod/
+    deployment.yaml
+    service.yaml
+    ingress.yaml
 
 
 ## Key idea
