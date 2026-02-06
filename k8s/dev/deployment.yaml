@@ -16,7 +16,6 @@ spec:
       containers:
         - name: backend
           image: ayazmamedov/backend:1.0
-          imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 3000
           readinessProbe:
